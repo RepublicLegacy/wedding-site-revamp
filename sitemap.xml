@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://republiclegacy.github.io/Wedding-Site-Revamp/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://republiclegacy.github.io/Wedding-Site-Revamp/</loc>
+</url>
+<url>
+<loc>https://republiclegacy.github.io/Wedding-Site-Revamp/good-to-know.html</loc>
+<lastmod>2025-02-17T20:27:41-07:00</lastmod>
+</url>
+<url>
+<loc>https://republiclegacy.github.io/Wedding-Site-Revamp/rsvp-success.html</loc>
+<lastmod>2025-02-17T20:26:38-07:00</lastmod>
+</url>
+<url>
+<loc>https://republiclegacy.github.io/Wedding-Site-Revamp/rsvp.html</loc>
+<lastmod>2025-02-17T23:57:52-07:00</lastmod>
+</url>
+</urlset>

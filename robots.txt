@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://republiclegacy.github.io/Wedding-Site-Revamp/sitemap.xml
